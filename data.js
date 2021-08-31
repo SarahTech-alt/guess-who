@@ -1,30 +1,82 @@
 var people = [
   {
-    name: 'Dev',
-    githubUsername: 'devjanaprime'
+      name: 'Chris B.',
+      githubUsername: 'christopher-black'
   },
   {
-    name: 'Dane',
-    githubUsername: 'DoctorHowser'
+      name: 'Ian',
+      githubUsername: 'XGalilei'
   },
   {
-    name: 'Mary',
-    githubUsername: 'mbmosman'
+      name: 'Chris H.',
+      githubUsername: 'hesscm'
   },
   {
-    name: 'Kris',
-    githubUsername: 'kdszafranski'
+      name: 'Abdirahman',
+      githubUsername: 'AbdirahmanSalad'
   },
   {
-    name: 'Edan',
-    githubUsername: 'eschwartz'
+      name: 'Sarah F.',
+      githubUsername: 'SarahTech-alt'
   },
   {
-    name: 'Casie',
-    githubUsername: 'cassandradanger'
+      name: 'TJ',
+      githubUsername: 'AVLynch5'
   },
   {
-    name: 'Chris',
-    githubUsername: 'christopher-black'
+      name: 'Andy',
+      githubUsername: 'AndrewEhrhardt'
   },
+  {
+      name: 'phaydara',
+      githubUsername: 'stephenmussel'
+  },
+  {
+      name: 'Mo',
+      githubUsername: 'chrismochinski'
+  },
+  {
+      name: `Russell`,
+      githubUsername: `BarrSquared`
+  },
+  {
+      name: `Ahmed Asif Iqbal`,
+      githubUsername: `asifmn`
+  },
+  {
+      name: 'Sarah H.',
+      githubUsername: 'sarahhelgen'
+  },
+  {
+      name: 'Piper Van Ness',
+      githubUsername: 'piperio'
+  },
+  {
+      name: 'Greg',
+      githubUsername: 'gTambo'
+  },
+  {
+      name: `Franck`,
+      githubUsername: `EldryMG`
+  },
+  {
+      name: 'Danny',
+      githubUsername: 'dmussie',
+  },
+  {
+      name: `Anwar`,
+      githubUsername: `anwarhussein`
+  },
+  {
+      name: 'Ahmed',
+      githubUsername: 'ahmedsharur'
+  },
+  {
+      name: 'Tou',
+      githubUsername: 'twol33'
+  },
+  {
+      name: 'Jess',
+      githubUsername: 'Hopper2021'
+  }
 ];
